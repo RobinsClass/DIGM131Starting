@@ -1,0 +1,86 @@
+Assignment 9: Learning Log
+DIGM 131 - Intro to Scripting for Digital Media
+
+INSTRUCTIONS:
+    Document at least 5 Maya commands you explored for this assignment.
+    Be honest about what confused you. The goal is to show your research
+    process, not to pretend everything was easy.
+
+============================================================================
+COMMAND 1
+============================================================================
+
+Command explored:
+    (e.g., cmds.shadingNode)
+
+What I searched for:
+    (What did you type into Google, Maya docs, or ChatGPT?)
+
+What confused me:
+    (What part was unclear or unexpected?)
+
+How I figured it out:
+    (What resource helped? Docs, forum post, trial and error?)
+
+Performance notes:
+    (Did it run fast or slow? Any limits you noticed?)
+
+
+============================================================================
+COMMAND 2
+============================================================================
+
+Command explored:
+
+What I searched for:
+
+What confused me:
+
+How I figured it out:
+
+Performance notes:
+
+
+============================================================================
+COMMAND 3
+============================================================================
+
+Command explored:
+
+What I searched for:
+
+What confused me:
+
+How I figured it out:
+
+Performance notes:
+
+
+============================================================================
+COMMAND 4
+============================================================================
+
+Command explored:
+
+What I searched for:
+
+What confused me:
+
+How I figured it out:
+
+Performance notes:
+
+
+============================================================================
+COMMAND 5
+============================================================================
+
+Command explored:
+
+What I searched for:
+
+What confused me:
+
+How I figured it out:
+
+Performance notes:
