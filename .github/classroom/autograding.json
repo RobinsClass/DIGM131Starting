@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Assignment 1 - Scene Builder",
+      "setup": "",
+      "run": "cd assignments/assignment01_scene_builder && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 2 - Pattern Generator",
+      "setup": "",
+      "run": "cd assignments/assignment02_pattern_generator && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 3 - Function Library",
+      "setup": "",
+      "run": "cd assignments/assignment03_function_library && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 4 - Data-Driven Scene",
+      "setup": "",
+      "run": "cd assignments/assignment04_data_driven && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 5 - Multi-Module",
+      "setup": "",
+      "run": "cd assignments/assignment05_multi_module && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 6 - Robust Toolkit",
+      "setup": "",
+      "run": "cd assignments/assignment06_robust_toolkit && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 7 - OOP Scene",
+      "setup": "",
+      "run": "cd assignments/assignment07_oop_scene && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 8 - Tool UI & File I/O",
+      "setup": "",
+      "run": "cd assignments/assignment08_tool_ui_fileio && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 9 - Exploration Project",
+      "setup": "",
+      "run": "cd assignments/assignment09_exploration && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    },
+    {
+      "name": "Assignment 10 - Final Project",
+      "setup": "",
+      "run": "cd assignments/assignment10_final_project && python test_assignment.py",
+      "timeout": 60,
+      "points": 10
+    }
+  ]
+}
