@@ -1,0 +1,53 @@
+Assignment 10: Final Project Reflection
+DIGM 131 - Intro to Scripting for Digital Media
+
+INSTRUCTIONS:
+    Answer each question thoughtfully. There are no wrong answers. The goal
+    is to reflect on what you learned and how you grew as a programmer.
+
+============================================================================
+TECHNICAL REFLECTION
+============================================================================
+
+What programming concept from this course was the hardest to understand?
+Why was it difficult, and how comfortable are you with it now?
+
+
+Which assignment earlier in the course helped you the most on this final
+project? How?
+
+
+What is one piece of code in your project that you are proud of? Why?
+
+
+What part of your code would you rewrite if you had more time?
+
+
+============================================================================
+PROCESS REFLECTION
+============================================================================
+
+How did your approach to debugging change from the beginning of the course
+to now?
+
+
+What resources did you rely on most (documentation, forums, classmates,
+AI tools)? How did you decide when to use each?
+
+
+What would you do differently if you started this project over?
+
+
+============================================================================
+LOOKING FORWARD
+============================================================================
+
+What do you want to learn next in scripting or programming?
+
+
+How do you see scripting fitting into your work in digital media going
+forward?
+
+
+Is there a tool or workflow in Maya (or another application) that you wish
+existed? Could you build it with what you have learned?
