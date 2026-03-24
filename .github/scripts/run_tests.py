@@ -56,7 +56,7 @@ def run_test(assignment_dir):
     print(f"{'=' * 60}")
 
     result = subprocess.run(
-        [sys.executable, test_path],
+        [sys.executable, "test_assignment.py"],
         cwd=os.path.join("assignments", assignment_dir),
         timeout=60
     )
