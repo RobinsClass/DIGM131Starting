@@ -4,3 +4,25 @@ __pycache__/
 .idea/
 *.egg-info/
 grade_report.json
+release_week.py
+
+# --- AUTO-GENERATED: hidden weeks ---
+demos/week02_control_flow/
+assignments/assignment02_pattern_generator/
+demos/week03_functions/
+assignments/assignment03_function_library/
+demos/week04_advanced_functions/
+assignments/assignment04_data_driven/
+demos/week05_modules/
+assignments/assignment05_multi_module/
+demos/week06_debugging/
+assignments/assignment06_robust_toolkit/
+demos/week07_oop/
+assignments/assignment07_oop_scene/
+demos/week08_fileio_ui/
+assignments/assignment08_tool_ui_fileio/
+demos/week09_docs_optimization/
+assignments/assignment09_exploration/
+demos/week10_integration/
+assignments/assignment10_final_project/
+# --- AUTO-GENERATED: hidden weeks ---
