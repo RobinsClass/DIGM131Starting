@@ -1,11 +1,9 @@
 """
 DIGM 131 - Week 1 Demo: The Power of Loops
 ============================================
-    Run this AFTER demo_01_mel_intro.mel.
-        then a MEL loop that replaced it. Now show the Python version --
-    it's cleaner and this is what they'll use all quarter.
+Run this AFTER demo_01_mel_intro.mel to see the Python version of loops.
 
-    Key teaching moments:
+Key concepts:
     1. "for i in range(n)" is Python's loop -- no $, no semicolons, no braces
     2. f-strings make naming easy: f"sphere_{i}"
     3. Changing one number (object_count) scales from 5 to 500 objects
@@ -22,7 +20,7 @@ cmds.file(new=True, force=True)
 # =============================================================================
 # SECTION 2: The HARD way -- copy-paste (DO NOT do this!)
 # =============================================================================
-# like this. I'll comment it out because we're NOT going to do it this way."
+# The copy-paste approach -- commented out because we'll use a loop instead.
 
 # cmds.polySphere(name="sphere_0", radius=0.5)
 # cmds.move(-6, 0.5, 0, "sphere_0")
